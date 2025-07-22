@@ -24,7 +24,7 @@ Collect coins and beat your high score
 Press P or tap the pause icon to pause the game
 
 📦 Download
-➡️ Download Rocket Flight v1.0 [https://github.com/Paritosh2681/Rocket_Flight-/releases/tag/v1.0]
+➡️ Download Rocket Flight v1.0 [Here](https://github.com/Paritosh2681/Rocket_Flight-/releases/tag/v1.0)
 
 Desktop version available for Windows
 
