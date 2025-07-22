@@ -1,9 +1,7 @@
 🚀 Rocket Flight
 Explore the cosmos in this addictive side-scrolling rocket adventure!
 
-<img width="582" height="797" alt="Main Menu" src="https://github.com/user-attachments/assets/04f4d446-a89d-438e-aa27-0cfb170e0c22" />
-
-<img width="578" height="812" alt="Gameplay" src="https://github.com/user-attachments/assets/c16ec87a-6c8e-4611-953f-22f57233658f" />
+<img width="582" height="797" alt="Main Menu" src="https://github.com/user-attachments/assets/04f4d446-a89d-438e-aa27-0cfb170e0c22" /> <img width="578" height="812" alt="Gameplay" src="https://github.com/user-attachments/assets/c16ec87a-6c8e-4611-953f-22f57233658f" />
 
 
 🎮 About the Game
@@ -19,7 +17,7 @@ Core Features:
 ⏸️ Interactive pause menu with darkened overlay
 
 
-🕹️ How to Play
+🕹️ How to Play:
 Tap/click or press SPACE to make the rocket jump
 Avoid crashing into pipes
 Collect coins and beat your high score
