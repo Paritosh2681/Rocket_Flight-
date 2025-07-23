@@ -5,7 +5,7 @@ Explore the cosmos in this addictive side-scrolling rocket adventure!
 
 
 🎮 About the Game
-Rocket Flight is a Flappy Bird-style game where you pilot a jet-powered rocket through a maze of colorful obstacles, collecting coins along the way. With an aesthetic blend of neon pipes, parallax backgrounds, and smooth animations, the game delivers a visually captivating experience.
+Rocket Flight is a Flappy Bird-style game where you pilot a jet-powered rocket through a maze of colorful obstacles. With an aesthetic blend of neon pipes, parallax backgrounds, and smooth animations, the game delivers a visually captivating experience.
 
 
 Core Features:
